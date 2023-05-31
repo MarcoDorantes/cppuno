@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "consolelib2.h"
-#include "..\consolelib\basic.h"
+#include "basic.h"
 #include <string>
 #include <sstream>
 
